@@ -1,0 +1,8 @@
+# Data sourcing
+
+# Data Cleaning
+
+# Data Analysis
+
+#Dashboard creation
+
